@@ -1,4 +1,13 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"  "http://www.w3.org/TR/html4/strict.dtd">
+<!--
+    Project:        CSTJ.420-4D4.2021.Épreuve.Synthèse
+    Auteur:         Alain Boudreault
+    Date:           2021.05.07
+    Description:    Application de départ de l'épreuve synthèse
+    -----------------------------------------------------------
+    M-A-J:
+    -----------------------------------------------------------
+-->
 <!--[if IE 6]>
 <html id="ie6" lang="fr-CA">
 <![endif]-->
