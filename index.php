@@ -92,7 +92,7 @@
             <p></p>
 
             <h2>
-                <span class="has-inline-color has-pale-pink-color">Vous avez été servi par le POD : </span>Inscrire ici le code php
+                <span class="has-inline-color has-pale-pink-color">Service par POD: </span>Inscrire ici le code php
                 <br/><span class="has-inline-color has-luminous-vivid-amber-color">Version du serveur web : </span>Inscrire ici le code php
             </h2>
 
