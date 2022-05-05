@@ -56,6 +56,7 @@
                 <div class="menu-menu-1-container">
                     <ul id="menu-menu-1" class="nav">
                         <li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26">
+                            <!-- ATTENTION, ne pas coder à la dure, l'adresse IP!! -->
                             <a href="#">Item1</a>
                         </li>
                         <li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27">
@@ -78,7 +79,7 @@
 
         <div class="article" class="post-5 page type-page status-publish hentry">
             <h1>
-                <a href="http://ve2cuy.com/">Déploiement K8s - version:es-1.0</a>
+                <a href="http://ve2cuy.com/">Déploiement K8s</a>
             </h1>
             <div class="date"></div>
 
@@ -102,7 +103,7 @@
             </h2>
 
             <p>
-                <a href="#">Ce site Web (12 duplicatas)</a>
+                <a href="#">Ce site Web (10 duplicatas)</a>
                 <br/>
                 <a href="#">Item1</a>
                 <br/>
@@ -114,7 +115,7 @@
                 <br>
                 <span class="has-inline-color has-luminous-vivid-amber-color">
                     À remettre avant le: &nbsp
-                    <a href="http://ve2cuy.com/420-4d4b/index.php/epreuve-synthese/">2021.05.25 23:59</a>
+                    <a href="http://ve2cuy.com/420-4d4b/index.php/epreuve-synthese/">à déterminer ...</a>
                 </span>
             </h2>
 
